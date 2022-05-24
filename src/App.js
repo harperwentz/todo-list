@@ -7,11 +7,11 @@ function App(){
   };
 
   const counter = 0;
-  
+
   return(
     <div>
       <h1>Hello React</h1>
-      <button onClick={console.log} >Hello</button>
+      <button>0</button>
     </div>
   );
 }
